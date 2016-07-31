@@ -14,8 +14,8 @@ $(document).ready(function() {
   });
 
   // Fetching all my Instagram photos
-  var token = '099f9ecb834e4a4eb6122214db37d64e',
-        num_photos = 10;
+  var token = '194377316.aba0840.f24765679f9f457b9cd7bc75cb7055f9',
+        num_photos = 8;
 
   $.ajax({
   	url: 'https://api.instagram.com/v1/users/self/media/recent',
