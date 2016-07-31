@@ -3,7 +3,7 @@ title: Portfolio
 name: Rudi Pham
 email: rudipham@me.com
 description: Architect
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "http://citizenpham.github.io/portfolio" # the base hostname & protocol for your site
 twitter:
 instagram: citizenpham
