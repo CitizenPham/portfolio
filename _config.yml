@@ -1,12 +1,12 @@
 # Site settings
 title: Portfolio
-name: Nichlas Wærnes Andersen
-email: nichlas@itsnwa.com
-description: Multi-disiplinary designer based in Brooklyn, NY
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://itsnwa.com" # the base hostname & protocol for your site
-twitter: nichlaswa
-github: itsnwa
+name: Rudi Pham
+email: rudipham@me.com
+description: Architect
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+url: "http://citizenpham.github.io/portfolio" # the base hostname & protocol for your site
+twitter:
+github: CitizenPham
 
 # Let the viewers know if your available or not
 hirable: true
