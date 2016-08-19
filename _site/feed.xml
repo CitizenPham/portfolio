@@ -2,11 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio</title>
+<<<<<<< HEAD
     <description>Architectural &amp; Interior designer from Norway, based in Brooklyn, NY.</description>
     <link>http://citizenpham.github.io/portfolio/</link>
     <atom:link href="http://citizenpham.github.io/portfolio/feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>Thu, 18 Aug 2016 21:38:32 -0400</pubDate>
     <lastBuildDate>Thu, 18 Aug 2016 21:38:32 -0400</lastBuildDate>
+=======
+    <description>Architect</description>
+    <link>http://citizenpham.github.io/portfolio/portfolio/</link>
+    <atom:link href="http://citizenpham.github.io/portfolio/portfolio/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 03 Aug 2016 14:21:22 -0400</pubDate>
+    <lastBuildDate>Wed, 03 Aug 2016 14:21:22 -0400</lastBuildDate>
+>>>>>>> origin/gh-pages
     <generator>Jekyll v3.2.0</generator>
     
   </channel>
