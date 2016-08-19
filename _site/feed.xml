@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio</title>
-    <description>Architect</description>
+    <description>Architectural &amp; Interior designer from Norway, based in Brooklyn, NY.</description>
     <link>http://citizenpham.github.io/portfolio/</link>
     <atom:link href="http://citizenpham.github.io/portfolio/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Aug 2016 23:08:59 -0400</pubDate>
-    <lastBuildDate>Tue, 02 Aug 2016 23:08:59 -0400</lastBuildDate>
+    <pubDate>Thu, 18 Aug 2016 21:38:32 -0400</pubDate>
+    <lastBuildDate>Thu, 18 Aug 2016 21:38:32 -0400</lastBuildDate>
     <generator>Jekyll v3.2.0</generator>
     
   </channel>
