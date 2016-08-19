@@ -3,10 +3,10 @@
   <channel>
     <title>Portfolio</title>
     <description>Architectural &amp; Interior designer from Norway, based in Brooklyn, NY.</description>
-    <link>http://citizenpham.github.io/portfolio/</link>
-    <atom:link href="http://citizenpham.github.io/portfolio/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Aug 2016 21:52:49 -0400</pubDate>
-    <lastBuildDate>Thu, 18 Aug 2016 21:52:49 -0400</lastBuildDate>
+    <link>/portfolio/</link>
+    <atom:link href="/portfolio/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 18 Aug 2016 21:56:53 -0400</pubDate>
+    <lastBuildDate>Thu, 18 Aug 2016 21:56:53 -0400</lastBuildDate>
     <generator>Jekyll v3.2.0</generator>
     
   </channel>
